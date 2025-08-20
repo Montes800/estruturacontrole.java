@@ -1,4 +1,6 @@
 Estudo de Estruturas Condicionais em Java 🧐
+
+
 E aí, galera! 👋 Esse repositório é pra quem quer dar um up no jogo de lógica em Java. Aqui a gente explora as duas formas mais comuns de tomar decisões no código: a clássica estrutura if-else e o atalho super esperto que é o operador ternário (?:).
 
 O objetivo é mostrar como a mesma lógica pode ser escrita de um jeito mais "old school" ou de um jeito mais "clean code". Bora codar! 🚀
